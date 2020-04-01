@@ -33,13 +33,11 @@ China University of Geosciences, Wuhan, China, 2011-2015<br>
 B.Eng. in Geographic Information System
 
 ## Skills
-**Programming:** Python, Matlab, Shell/Bash
+**Programming:** Python, Matlab, Shell/Bash, Git, Travis CI
 
 **Python:** Jupyter notebook, NumPy, Pandas, GeoPandas, Python, SciPy, Matplotlib, Multiprocessing, PySpark
 
-**Geospatial analysis:** QGIS, ArcGIS, ENVI
-
-**Productivity:** Git, Travis CI
+**Geospatial-Analysis:** QGIS, ArcGIS, ENVI
 
 **OS:** Windows, OSX, Unix/Linux, HPC
 
