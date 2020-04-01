@@ -8,6 +8,7 @@
 <loc>/404/</loc>
 </url>
 <url>
+<<<<<<< HEAD
 <loc>/Publications/</loc>
 </url>
 <url>
@@ -15,6 +16,12 @@
 </url>
 <url>
 <loc>/about/</loc>
+=======
+<loc>/about/</loc>
+</url>
+<url>
+<loc>/archives/</loc>
+>>>>>>> parent of a3daa49... change structure
 </url>
 <url>
 <loc>/</loc>
