@@ -1,41 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/2020/04/01/welcome-to-jekyll/</loc>
-<lastmod>2020-04-01T09:29:54+00:00</lastmod>
+<loc>http://localhost:4000/2018/09/01/Monitoring-tabular-icebergs-C28A-and-C28B/</loc>
+<lastmod>2018-09-01T10:29:54+01:00</lastmod>
 </url>
 <url>
-<loc>/404/</loc>
+<loc>http://localhost:4000/404/</loc>
 </url>
 <url>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<loc>/Publications/</loc>
+<loc>http://localhost:4000/Publications/</loc>
 </url>
 <url>
-<loc>/Research/</loc>
+<loc>http://localhost:4000/Research/</loc>
 </url>
 <url>
-<loc>/about/</loc>
-=======
-=======
->>>>>>> parent of a3daa49... change structure
-<loc>/about/</loc>
+<loc>http://localhost:4000/about/</loc>
 </url>
 <url>
-<loc>/archives/</loc>
-<<<<<<< HEAD
->>>>>>> parent of a3daa49... change structure
-=======
->>>>>>> parent of a3daa49... change structure
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>/</loc>
-</url>
-<url>
-<loc>/categories/jekyll/</loc>
-</url>
-<url>
-<loc>/categories/update/</loc>
+<loc>http://localhost:4000/categories/iceberg/</loc>
 </url>
 </urlset>
