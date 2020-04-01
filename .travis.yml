@@ -11,7 +11,7 @@ before_install:
   - gem install bundler
   - nvm install node
 install:
-  - bundle install --jobs=3 --retry=3
+  - bundle install 
   - pip install --user html5validator
   - npm install -g pa11y-ci
 script:
