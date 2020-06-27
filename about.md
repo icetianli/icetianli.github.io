@@ -6,10 +6,10 @@ permalink: /about/
 
 I am Tian Li and a PhD student in Bristol Glaciology Centre of University of Bristol.
 
-I have strong interests in glacial changes of Antarctic Ice Sheet under climate change. In particular, my research focus on Antarctic ice shelves, which are vital parts in ice-ocean-atmosphere system. I mainly use remote sensing technologies to study dynamics of ice shelves, quantify their response to different oceanic and atmospheric factors.
+I have strong interests in glacial changes of Antarctic Ice Sheet under climate change. In particular, my research focuses on Antarctic ice shelves, which are vital parts in ice-ocean-atmosphere system. I mainly use remote sensing technologies to study dynamics of ice shelves, quantify their response to different oceanic and atmospheric factors.
 
 ## Research Interests
-Glacial Dynamics
+Glaciology
 
 Antarctic Ice Sheet
 
@@ -35,7 +35,7 @@ B.Eng. in Geographic Information System
 ## Skills
 **Programming:** Python, Matlab, Shell/Bash, Git, Travis CI
 
-**Python:** Jupyter notebook, NumPy, Pandas, GeoPandas, Python, SciPy, Matplotlib, Multiprocessing, PySpark
+**Python:** Jupyter notebook, NumPy, Pandas, GeoPandas, SciPy, Matplotlib, Multiprocessing, DASK, PySpark
 
 **Geospatial-Analysis:** QGIS, ArcGIS, ENVI
 

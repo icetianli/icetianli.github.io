@@ -17,7 +17,9 @@ permalink: /Publications/
 
 
 ## Conference presentations
-* **Tian Li***, Geoffrey Dawson, Stephen Chuter and Jonathan Bamber. (2020, May). _Mapping Antarctic Grounding Lines from ICESat-2 Laser Altimetry_. **European Geosciences Union**. _[POSTER]_
+* **Tian Li***, Geoffrey Dawson, Stephen Chuter and Jonathan Bamber. (2020, June). _Mapping the Antarctic Grounding Zone from ICESat-2 Laser Altimetry_. **Forum for Research into Ice Shelf Processes (FRISP)**, virtual conference. _[ORAL]_
+
+* **Tian Li***, Geoffrey Dawson, Stephen Chuter and Jonathan Bamber. (2020, May). _Mapping Antarctic Grounding Lines from ICESat-2 Laser Altimetry_. **European Geosciences Union General Assembly**, virtual conference.
 
 * **Tian Li***, Geoffrey Dawson, Stephen Chuter and Jonathan Bamber. (2019, September). _Mapping Antarctic grounding lines from ICESat-1 and ICESat-2 repeat tracks_. **International Glaciological Society British Branch Meeting**, Geography and Environmental Sciences, Northumbria University, Newcastle, UK. _[POSTER]_
 
@@ -26,3 +28,14 @@ permalink: /Publications/
 * **Tian Li**, Yan Liu, Xiao Cheng*, Lunxi Ouyang, Xingqing Li, Jiping Liu, Mohammed Shokr, Fengming Hui, Jing Zhang, Jiahong Wen. (2016, October). _The effect of seafloor topography in the Southern Ocean on tabular iceberg drifting and grounding_. **International Symposium on Polar Environment Change and Public Governance**, Wuhan University, Wuhan, China. _[ORAL]_
 
 * **Tian Li**, Mohammed Shokr, Xiao Cheng*, Yan Liu, Fang Wang, Fengming Hui, Jiping Liu. (2016, July). _Monitoring the tabular icebergs C28A and C28B calved from the Mertz Ice Tongue using satellite remote sensing data_. **International Symposium on Interactions of Ice Sheets and Glaciers with the Ocean, International Glaciological Society & UC San Diego**, San Diego, US. _[ORAL]_
+
+## Summer school and field work
+**Cryospheric Science with ICESat-2 Geohackweek**. June 2020. University of Washington. Virtual hackweek.
+
+**Graduate Training School on Arctic Climate Change Study**. October 2017. Finnish Meteorological Institute & Beijing Normal University. Helsinki and Sodankylä, Finland.
+
+**Remote Sensing Field Investigation in Finnish Arctic Research Center**. February 2017. Finnish Meteorological Institute & Beijing Normal University. Helsinki and Sodankylä, Finland.
+
+**Geography Field Trip in Inner Mongolia and Urumqi No.1 Glacier, China**. July 2016. College of Global Change and Earth System Science, Beijing Normal University. Inner Mongolia and Xinjiang, China.
+
+**Global Environmental Change Studies Summer School**. July 2016. College of Global Change and Earth System Science, Beijing Normal University. Beijing, China.
