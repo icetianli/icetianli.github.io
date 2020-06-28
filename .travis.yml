@@ -25,6 +25,7 @@ script:
 branches:
   only:
     - source
+    - master
 deploy:
   provider: pages
   skip-cleanup: true
