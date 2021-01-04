@@ -45,4 +45,4 @@ University Road, Bristol BS8 1SS, UK
 
 [Brisol Glaciology Centre](http://www.bristol.ac.uk/geography/research/bgc/)
 
-[University of Bristol](https://www.bristol.ac.uk/).
+[University of Bristol](https://www.bristol.ac.uk/)
