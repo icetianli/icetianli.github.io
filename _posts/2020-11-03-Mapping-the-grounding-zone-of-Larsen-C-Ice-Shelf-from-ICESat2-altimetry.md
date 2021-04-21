@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mapping the grounding zone of Larsen C Ice Shelf from ICESat2 altimetry"
+title:  "Mapping the grounding zone of Larsen C Ice Shelf from ICESat-2 altimetry"
 date:   2020-11-03 10:29:54 +0100
 categories: Ice Shelf
 ---
