@@ -7,7 +7,7 @@ permalink: /about/
 I am a PhD student at the University of Bristol. I have strong interests in glacier changes of Antarctic Ice Sheet under climate change. My research focuses on using multiple remote sensing technologies to study the response of Antarctic glaciers to different oceanic and atmospheric factors.
 
 ## Research Interests
-Glaciers; Antarctic Ice Sheet; Ice-ocean Interaction; Satellite Altimetry; SAR; Climate Change
+Glaciers;  Antarctic Ice Sheet;  Ice-Ocean Interaction;  Satellite Altimetry;  SAR;  Climate Change
 
 ## Education
 
@@ -22,8 +22,6 @@ B.Eng. in Geographic Information System
 
 ## Skills
 **Programming:** Python, Matlab, R, Shell/Bash, Git, Travis CI
-
-**Python:** Jupyter notebook, NumPy, Pandas, GeoPandas, SciPy, Matplotlib, Multiprocessing, DASK, PySpark
 
 **Geospatial-Analysis:** QGIS, ArcGIS, ENVI
 

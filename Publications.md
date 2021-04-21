@@ -11,7 +11,7 @@ permalink: /Publications/
 
 * **Tian Li**, Mohammed Shokr, Yan Liu, Xiao Cheng\*, Teng Li, Fang Wang, Fengming Hui. 2018. [Monitoring the tabular icebergs C28A and C28B calved from the Mertz Ice Tongue using radar remote sensing data](https://www.sciencedirect.com/science/article/abs/pii/S0034425718303614). _Remote Sensing of Environment_, 216, 615-625.
 
-* Teng Li, Yan Liu, **Tian Li**, Fengming Hui, Zhuoqi Chen, Xiao Cheng\*. 2018. [Antarctic surface ice velocity retrieval from MODIS-based Mosaic of Antarctica (MOA)](https://www.google.com/url?q=http%3A%2F%2Fwww.mdpi.com%2F2072-4292%2F10%2F7%2F1045%2Fpdf&sa=D&sntz=1&usg=AFQjCNHOyNO-mcPTwBnHGkRjAMluT5UO-w). _Remote Sensing_, 10, 1045.
+* Teng Li, Yan Liu, **Tian Li**, Fengming Hui, Zhuoqi Chen, Xiao Cheng\*. 2018. [Antarctic surface ice velocity retrieval from MODIS-based Mosaic of Antarctica (MOA)](https://www.mdpi.com/2072-4292/10/7/1045). _Remote Sensing_, 10, 1045.
 
 * **Tian Li**, Yan Liu, Xiao Cheng\*, Lunxi Ouyang, Xinqing Li, Jiping Liu, Mohammed Shokr, Fengming Hui, Jing Zhang, Jiahong Wen. 2017. [The effect of sea floor topography in the Southern Ocean on tabular iceberg drifting and grounding](https://link.springer.com/article/10.1007/s11430-016-9014-5). _Science China Earth Sciences_, 60, doi: 10.1007/s11430-016-9014-5.
 
