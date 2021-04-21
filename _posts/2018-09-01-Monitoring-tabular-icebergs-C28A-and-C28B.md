@@ -10,7 +10,7 @@ Two patterns of iceberg area decreases are observed during iceberg drifting. In 
 
 The freeboard decreased at different rates at different locations on the same iceberg (between −0.02 ± 0.22 and −0.82 ± 0.28 m/month for C28A and C28B), suggesting a laterally inhomogeneous melting of icebergs. The average rate of change of the C28B freeboard during its 22-month grounding period was −0.03 ± 0.01 m/month, which is considerably smaller than the −0.76 ± 0.23 m/month observed when it was freely drifting in the ocean. The cold-water regime surrounding the iceberg can help the iceberg maintain a stable state. This study reveals the potential use of radar remote sensing when monitoring Antarctic icebergs.
 
-<img src="../pics/RSE_Mertz.jpg" alt="drawing" width="350"/>
+<img src="../assets/imgs/RSE_Mertz.jpg" alt="" width="350"/>
 
 Figure: CryoSat-2 profiles across icebergs C28A and C28B overlaid on a thickness map of Mertz Ice Tongue (Wang et al., 2018).
 

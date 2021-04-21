@@ -8,7 +8,7 @@ We present a new, fully automated method of mapping the Antarctic Ice Sheet’s 
 
 Our results demonstrate the efficiency, density, and high spatial accuracy with which ICESat-2 can image complex grounding zones and its clear potential for future mapping of the pan-ice sheet grounding zone.
 
-<img src="../pics/TC_Larsen.jpg" alt="drawing" width="400"/>
+<img src="../assets/imgs/TC_Larsen.jpg" alt="" width="400"/>
 
 Figure: Spatial distributions of ICESat-2-derived GZ features.
 
