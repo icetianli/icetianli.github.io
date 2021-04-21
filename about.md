@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-I am a PhD student at the University of Bristol. I have strong interests in glacier changes of Antarctic Ice Sheet under climate change. My research focuses on using multiple remote sensing technologies to study the response of Antarctic glaciers to different oceanic and atmospheric factors.
+I am a PhD student at the University of Bristol. I have strong interests in glacier changes of the Antarctic Ice Sheet under climate change. My research focuses on using multiple remote sensing technologies to study the response of Antarctic glaciers to different oceanic and atmospheric factors.
 
 ## Research Interests
 Glaciers;  Antarctic Ice Sheet;  Ice-Ocean Interaction;  Satellite Altimetry;  SAR;  Climate Change
@@ -41,7 +41,7 @@ University Road, Bristol BS8 1SS, UK
 
 ## Links
 
-[University of Bristol Reserach Profile](https://research-information.bris.ac.uk/en/persons/tian-li)
+[University of Bristol Research Profile](https://research-information.bris.ac.uk/en/persons/tian-li)
 
 [Bristol Glaciology Centre](http://www.bristol.ac.uk/geography/research/bgc/)
 
